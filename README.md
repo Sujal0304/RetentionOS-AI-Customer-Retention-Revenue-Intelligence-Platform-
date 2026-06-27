@@ -57,7 +57,8 @@ For each customer in the allocated budget, an LLM (Llama 3.3 70B via the Groq AP
 - A **rule-based fallback** generates a usable (if simpler) note if the API call fails for any reason — rate limits, network issues, bad keys — so the pipeline never breaks even when the AI call does
 
 ### 8. Power BI Dashboard
-*(In progress / to be added)*
+<img width="802" height="457" alt="Screenshot 2026-06-27 105812" src="https://github.com/user-attachments/assets/a0d31f2b-28db-4182-bea6-76b6a0da81c8" />
+
 
 Planned views:
 - **Priority queue** — the allocated customer list, sortable by Priority tier and Revenue at Risk
